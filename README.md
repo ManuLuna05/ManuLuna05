@@ -51,7 +51,7 @@ Trabajo con **Java, Python y Flutter/Dart**, y me siento cómodo trabajando en e
 
 ---
 
-## 📊 Métricas
+## 📊 Estadísticas
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=manuluna05&show_icons=true&hide_title=true" alt="Stats" height="130" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuluna05&layout=compact" alt="Top Langs" height="130" />
