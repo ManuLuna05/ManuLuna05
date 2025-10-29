@@ -52,10 +52,9 @@ Trabajo con **Java, Python y Flutter/Dart**, y me siento cómodo trabajando en e
 ---
 
 ## 📊 Estadísticas
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=manuluna05&show_icons=true&hide_title=true" alt="Stats" height="130" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuluna05&layout=compact" alt="Top Langs" height="130" />
-</p>
+![GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manulun05&theme=tokyonight)
+![Repos Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manulun05&theme=tokyonight)
+![Commits Card](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manulun05&theme=tokyonight)
 
 ---
 
