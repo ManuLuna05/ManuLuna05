@@ -1,6 +1,6 @@
 <!-- Cabecera centrada con logo/nombre -->
 <p align="center">
-  <img src="./logo_claro.png" alt="Logo / Avatar" width="120"><br>
+  <img src="./cabecera.png" alt="Logo / Avatar" width="120"><br>
   <b style="font-size: 20px;">Manuel Luna Alarcón</b><br>
   <i>Desarrollador de software — creatividad + solución de problemas</i>
 </p>
