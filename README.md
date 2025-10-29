@@ -11,15 +11,12 @@
 <b style="font-size: 20px;">Manuel Luna Alarcón</b><br>
 <i>Desarrollador de software — creatividad + solución de problemas</i>
 
-<p align="center">
-  <!-- Badges rápidos -->
-  <a href="https://www.linkedin.com/in/manuel-luna-alarcón-b10779370">
-    <img src="https://img.shields.io/badge/LinkedIn-Manuel%20Luna-0A66C2?style=flat&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:lunala.manuel@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contacto-333?style=flat&logo=gmail" alt="Email">
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/manuel-luna-alarcón-b10779370">
+  <img src="https://img.shields.io/badge/LinkedIn-Manuel%20Luna-0A66C2?style=flat&logo=linkedin" alt="LinkedIn">
+</a>
+<a href="mailto:lunala.manuel@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contacto-333?style=flat&logo=gmail" alt="Email">
+</a>
 
 ---
 
