@@ -55,7 +55,6 @@ Trabajo con **Java, Python y Flutter/Dart**, y me siento cómodo trabajando en e
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manuluna05&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuluna05&layout=compact&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=manuluna05&theme=tokyonight" />
 </p>
 
 ---
