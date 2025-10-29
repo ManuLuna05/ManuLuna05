@@ -10,11 +10,8 @@
   <a href="https://www.linkedin.com/in/manuel-luna-alarcón-b10779370">
     <img src="https://img.shields.io/badge/LinkedIn-Manuel%20Luna-0A66C2?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="mailto:tu-email@dominio.com">
+  <a href="mailto:lunala.manuel@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contacto-333?style=flat&logo=gmail" alt="Email">
-  </a>
-  <a href="https://occulfc.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Occul%20FC-111?style=flat&logo=vercel" alt="Portfolio">
   </a>
 </p>
 
@@ -56,12 +53,9 @@ Trabajo con **Java, Python y Flutter/Dart**, y me siento cómodo trabajando en e
 
 ## 📊 Métricas
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&hide_title=true" alt="Stats" height="130" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact" alt="Top Langs" height="130" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manuluna05&show_icons=true&hide_title=true" alt="Stats" height="130" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuluna05&layout=compact" alt="Top Langs" height="130" />
 </p>
-
-> Si no quieres métricas dinámicas, elimina esta sección.  
-> También puedes usar: `streak-stats.demolab.com` o `github-profile-summary-cards.vercel.app`.
 
 ---
 
@@ -73,5 +67,5 @@ Trabajo con **Java, Python y Flutter/Dart**, y me siento cómodo trabajando en e
 ---
 
 ## 🔎 Ahora mismo
-- Aprendiendo: **Patrones de diseño**, **buenas prácticas en Flutter**  
+- Aprendiendo: **Especializandome en IA y Big Data**, **Realizando la Ingeniería Informática**  
 - Interesado en: **proyectos donde pueda aportar creatividad y solucionar problemas reales**  
