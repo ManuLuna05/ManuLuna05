@@ -1,9 +1,15 @@
 <!-- Cabecera centrada con logo/nombre -->
 <p align="center">
   <img src="./cabecera.png" alt="Logo / Avatar"><br>
-  <b style="font-size: 20px;">Manuel Luna Alarcón</b><br>
-  <i>Desarrollador de software — creatividad + solución de problemas</i>
 </p>
+
+
+---
+
+## ℹ️ Información
+
+<b style="font-size: 20px;">Manuel Luna Alarcón</b><br>
+<i>Desarrollador de software — creatividad + solución de problemas</i>
 
 <p align="center">
   <!-- Badges rápidos -->
