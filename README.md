@@ -43,11 +43,11 @@ Trabajo con **Java, Python y Flutter/Dart**, y me siento cómodo trabajando en e
 ## 🚀 Proyectos Destacados
 - **Occul FC — Web Oficial**  
   Sitio del club con diseño responsivo, secciones de equipo/noticias y estética cuidada.  
-  🔗 Web: https://occulfc.vercel.app · 📦 Repo: [TU-USUARIO/occul-fc](https://github.com/TU-USUARIO/occul-fc)
+  🔗 Web: https://occulfc.vercel.app
 
 - **Proyecto Chapi TFG**  
-  App ligera con navegación, estado y consumo de API.  
-  📦 Repo: [TU-USUARIO/flutter-app](https://github.com/TU-USUARIO/flutter-app)
+  Chapi, aplicación para personas mayores (Versión Escritorio), TFG DAM  
+  📦 Repo: [ManuLuna05/Chapi-Escritorio](https://github.com/ManuLuna05/Chapi-Escritorio)
 
 ---
 
@@ -61,8 +61,8 @@ Trabajo con **Java, Python y Flutter/Dart**, y me siento cómodo trabajando en e
 
 ## 📬 Contacto
 - LinkedIn: [Manuel Luna Alarcón](https://www.linkedin.com/in/manuel-luna-alarcón-b10779370)  
-- Email: tu-email@dominio.com  
-- Portfolio / Demo: https://occulfc.vercel.app
+- Email: lunala.manuel@gmail.com  
+- Web CV: [Web CV](https://manuluna05.github.io/WebCV) 
 
 ---
 
